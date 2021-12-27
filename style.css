@@ -1,0 +1,30 @@
+body {
+  background-color: #483D8B
+
+}
+
+header {
+  position: fixed;
+  height: 45px;
+
+
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  line-height: 13px;
+  letter-spacing: normal;
+
+}
+
+h1 {
+  text-align: center;
+  color: #d3d3d3;
+  font-size: 27px;
+  font-weight: bolder;
+}
+
+h2 {
+  
+}
