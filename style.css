@@ -10,7 +10,7 @@ header {
 
 }
 
-ul {
+ul a {
   list-style-type: none;
   text-align: center;
   line-height: 13px;
